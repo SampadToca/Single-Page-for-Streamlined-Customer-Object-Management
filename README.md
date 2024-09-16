@@ -30,7 +30,7 @@ Make sure you have the following tools installed:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <your-github-repo-url>
+git clone https://github.com/SampadToca/Single-Page-for-Streamlined-Customer-Object-Management.git
 cd customer_management
 
 -Admin Panel: http://localhost:8000/admin/
