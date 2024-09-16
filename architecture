@@ -1,0 +1,21 @@
++-----------------------------+
+|         Frontend SPA        |
+| (e.g., React, Vue, Angular) |
++-------------+---------------+
+              |
+              | HTTP Requests
+              v
++-----------------------------+
+|        Django Backend       |
+|    (Django REST Framework)  |
++-----------------------------+
+|      JWT Authentication     |
+|  (rest_framework_simplejwt) |
++-------------+---------------+
+              |
+              | Database Queries
+              v
++-----------------------------+
+|        PostgreSQL DB        |
+|  (Stores Customer Data)     |
++-----------------------------+
