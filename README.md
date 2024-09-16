@@ -33,6 +33,7 @@ Make sure you have the following tools installed:
 git clone https://github.com/SampadToca/Single-Page-for-Streamlined-Customer-Object-Management.git
 cd customer_management
 
--Admin Panel: http://localhost:8000/admin/
--API Endpoints: Start with http://localhost:8000/api/
--Swagger API Documentation: http://localhost:8000/swagger/
+
+##  Admin Panel: http://localhost:8000/admin/
+## API Endpoints: Start with http://localhost:8000/api/
+## Swagger API Documentation: http://localhost:8000/swagger/
